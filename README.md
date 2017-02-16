@@ -26,8 +26,8 @@ Follow the platform integration instructions found [here](https://github.com/Mic
 ##Unit Tests
 Unit testing is provided for both integration of the ATECC508A device and OpenSSL Examples.  
 For details see:
-[Platform Integration Tests](https://github.com/MicrochipTech/cryptoauth-openssl-engine/wiki/Tests:-ATECC508A-Platform-Integration)
-[OpenSSL Engine Tests & Examples](https://github.com/MicrochipTech/cryptoauth-openssl-engine/wiki/Tests:-OpenSSL-Tests-and-Examples)
+* [Platform Integration Tests](https://github.com/MicrochipTech/cryptoauth-openssl-engine/wiki/Tests:-ATECC508A-Platform-Integration)
+* [OpenSSL Engine Tests & Examples](https://github.com/MicrochipTech/cryptoauth-openssl-engine/wiki/Tests:-OpenSSL-Tests-and-Examples)
 
 Source-Level Documentation
 Full Doxygen source-level documentation is provided.
