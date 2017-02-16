@@ -4,7 +4,7 @@
 ##Overview
 This is an OpenSSL Engine implementation using ATECC508A for ECC key storage, ECDSA sign/verify, ECDH, and FIPS Random Number Generator
 
-The implementation integrates the [Microchip ATECC508A](http://www.microchip.com/wwwproducts/en/ATECC508A) into the [OpenSSL ENGINE API](http://openssl.org/docs/manmaster/crypto/engine.html) to provide secure hardware key storage, [CAVP certified random numbers](http://csrc.nist.gov/groups/STM/cavp/documents/aes/aesval.html), P256 ECDSA & ECDH, and secure storage for data.
+The implementation integrates the [Microchip ATECC508A](http://www.microchip.com/wwwproducts/en/ATECC508A) into the [OpenSSL ENGINE API](https://www.openssl.org/docs/man1.0.2/crypto/engine.html) to provide secure hardware key storage, [CAVP certified random numbers](http://csrc.nist.gov/groups/STM/cavp/documents/aes/aesval.html), P256 ECDSA & ECDH, and secure storage for data.
 
 This project will integrate the key creation and import capabilities of the ATECC508A into the OpenSSL key creation and certificate creation process. 
 
