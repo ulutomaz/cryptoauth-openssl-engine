@@ -21,7 +21,7 @@ Build instructions for Linux can be found on the Wiki pages associate with this 
 See: [Compile OpenSSL Engine for ATECC508A on Linux](https://github.com/MicrochipTech/cryptoauth-openssl-engine/wiki/Linux:-Compile-OpenSSL-Engine-for-ATECC508A)
 
 ##Platform Integration
-Follow the platform integration instructions found [here](https://github.com/MicrochipTech/cryptoauth-openssl-engine/wiki/Integrate-ATECC508A-onto-Your-Platform)
+Follow the platform integration instructions found [here](https://github.com/MicrochipTech/cryptoauth-openssl-engine/wiki/ATECC508A:-Platform-Integration)
 
 ##Unit Tests
 Unit testing is provided for both integration of the ATECC508A device and OpenSSL Examples.  
